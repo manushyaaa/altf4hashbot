@@ -1,0 +1,1 @@
+worker: python tweepy_bot.py
