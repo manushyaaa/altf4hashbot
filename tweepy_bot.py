@@ -48,4 +48,7 @@ def main(keywords):
     stream.filter(track=keywords, languages=["en"])
 
 if __name__ == "__main__": 
-    main(["#100DaysOfCode"])
+    main(["#100DaysOfCode" , '#freeCodeCamp', '#JavaScript','#CodeNewbie','#freeCodeCamp'])
+  
+  
+ 
